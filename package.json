@@ -1,0 +1,24 @@
+{
+  "name": "pathstuff",
+  "version": "1.0.0",
+  "description": "Helpers for SVG path commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tophtucker/pathstuff.git"
+  },
+  "keywords": [
+    "svg",
+    "canvas",
+    "graphics"
+  ],
+  "author": "Toph Tucker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tophtucker/pathstuff/issues"
+  },
+  "homepage": "https://observablehq.com/@tophtucker/pathstuff"
+}
