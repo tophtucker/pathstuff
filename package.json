@@ -1,6 +1,6 @@
 {
   "name": "pathstuff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helpers for SVG path commands",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/tophtucker/pathstuff/issues"
   },
-  "homepage": "https://observablehq.com/@tophtucker/pathstuff"
+  "homepage": "https://observablehq.com/@tophtucker/pathstuff",
+  "type": "module"
 }
